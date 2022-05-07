@@ -1,0 +1,117 @@
+body{
+    font-family:var(--global-body-font-family-stack);
+    background-color: beige;
+}
+p#Homeplant{
+    text-align: center; font-size: xx-large; font-style: italic; text-decoration: underline;
+    font-family:var(--global-body-font-family-stack);
+
+
+}
+p#Homebreathe{
+    text-align: center; font-size: larger ; font-style: italic ;
+    font-family:var(--global-body-font-family-stack);
+
+}
+div#Home
+{
+    color: white;
+    background-image:url(ooo.jpg);
+    background-size: 40cm 30cm ;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+h2{
+    text-align: center;
+    font-family:var(--global-body-font-family-stack) ;
+    font-size: xx-large;
+}
+div.gallery{
+    margin: 5px;
+    
+    float: left;
+    width: 300px;
+   
+}
+
+div.gallery img{
+    width: 90%;
+    height: auto;
+}
+div.desc{
+    padding: 15px;
+    text-align: center;
+    font-family:var(--global-body-font-family-stack) ;
+}
+
+h1{
+    text-align: center;
+    font-family:var(--global-body-font-family-stack) ;
+    font-size: xx-large;
+}
+div.rooh{
+    margin: 5px;
+    
+    float: left;
+    width: 300px;
+
+}
+
+div.rooh img {
+    width: 90%;
+    height: 40%;
+}
+div.option{
+    padding: 15px;
+    text-align: center;
+    font-family:var(--global-body-font-family-stack);
+
+}
+h3{
+    text-align: center;
+    font-family:var(--global-body-font-family-stack) ;
+    font-size: x-large;
+
+}
+form{
+    text-align: left;
+     font-family :var(--global-body-font-family-stack);
+   }
+   input[type=text] {
+       width: 30%;
+       box-sizing: border-box;
+     }
+   
+   input[type=number] {
+     width: 30%;
+     box-sizing: border-box;
+   }
+   input[type=email] {
+       width: 30%;
+       box-sizing: border-box;
+   }
+div#gggg{
+    background-image:url(shopp.jpg);
+    background-size: 40cm 30cm ;
+background-position: center;
+background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    font-family:var(--global-body-font-family-stack);
+    font-size: xx-large;
+}
+
+
+p#talk{ 
+       text-align: center; font-size:x-large; font-style: italic; 
+       font-family: var(--global-body-font-family-stack);
+}
+
+
+
+
+
+
+
